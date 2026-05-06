@@ -11,6 +11,8 @@ dependencies = [
     "numpy>=2.4.4",
     "pandas>=3.0.2",
     "scikit-learn>=1.8.0",
+    "requests>=2.33.1",
+    "pillow>=12.2.0",
 ]
 
 [tool.uv]
