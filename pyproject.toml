@@ -13,6 +13,7 @@ dependencies = [
     "scikit-learn>=1.8.0",
     "requests>=2.33.1",
     "pillow>=12.2.0",
+    "joblib>=1.5.3",
 ]
 
 [tool.uv]
